@@ -6,6 +6,7 @@
  # 1.) Add your Gemini API Key in GenerativeAI-Info.plist File
  # 2.) Add your  GoogleService-Info.plist for Google Authenticator and Firebase usage
  # 3.) Create Your Info plist for storing the  URL type for  gogole sign in  reversed Client id
+ # 4.) Add Lottie ios package, Google Auth , Firebase package
 Prerequisites:
 
 # Technologies Used
