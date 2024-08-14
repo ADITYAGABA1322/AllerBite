@@ -3,11 +3,11 @@
 #### Welcome to AllerBite, a powerful iOS app built using SwiftUI to help you manage your food preferences, allergies, and discover new recipes tailored to your dietary needs.
 
 # Most Important Note
- # 1.) Add your Gemini API Key in GenerativeAI-Info.plist File
- # 2.) Add your  GoogleService-Info.plist for Google Authenticator and Firebase usage
- # 3.) Create Your Info plist for storing the  URL type for  gogole sign in  reversed Client id
- # 4.) Add Lottie ios package, Google Auth , Firebase package
- # 5.) I'm providing a lottie ios package that is working not latest one working in it so download the package from above and add local into your Xcode package manager
+ ## 1.) Add your Gemini API Key in GenerativeAI-Info.plist File
+ ## 2.) Add your  GoogleService-Info.plist for Google Authenticator and Firebase usage
+ ## 3.) Create Your Info plist for storing the  URL type for  gogole sign in  reversed Client id
+ ## 4.) Add Lottie ios package, Google Auth , Firebase package
+ ## 5.) I'm providing a lottie ios package that is working not latest one working in it so download the package from above and add local into your Xcode package manager
 Prerequisites:
 
 # Technologies Used
